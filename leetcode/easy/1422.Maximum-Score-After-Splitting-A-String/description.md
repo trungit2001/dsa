@@ -27,7 +27,7 @@ the number of **ones** in the **right** substring.
 
 **Example 3:**
 
-> **Input:**  s = "1111" <br>
+> **Input:** s = "1111" <br>
 > **Output:** 3 <br>
 
 <p>&nbsp;</p>
