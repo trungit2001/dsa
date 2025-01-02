@@ -17,7 +17,7 @@ the number of **ones** in the **right** substring.
 > left = "01" and right = "1101", score = 1 + 3 = 4 <br>
 > left = "011" and right = "101", score = 1 + 2 = 3 <br>
 > left = "0111" and right = "01", score = 1 + 1 = 2 <br>
-> left = "01110" and right = "1", score = 2 + 1 = 3 <br>
+> left = "01110" and right = "1", score = 2 + 1 = 3
 
 **Example 2:**
 
@@ -28,7 +28,7 @@ the number of **ones** in the **right** substring.
 **Example 3:**
 
 > **Input:** s = "1111" <br>
-> **Output:** 3 <br>
+> **Output:** 3
 
 <p>&nbsp;</p>
 
