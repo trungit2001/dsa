@@ -29,6 +29,7 @@ Return *an array* `ans` *of size* `queries.length`, *where* `ans[i]` *is the ans
 <p>&nbsp;</p>
 
 **Constraints:**
+
 - <code>1 <= words.length <= 10<sup>5</sup></code>
 - `1 <= words[i].length <= 40`
 - `words[i]` consists only of lowercase English letters.
