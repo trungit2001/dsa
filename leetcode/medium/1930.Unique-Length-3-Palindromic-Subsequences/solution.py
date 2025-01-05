@@ -7,3 +7,9 @@ class Solution:
             right = s.rindex(w)
             ans += len(set(s[left+1:right]))
         return ans
+
+
+sol = Solution()
+print(sol.countPalindromicSubsequence('aabca'))  # 3
+print(sol.countPalindromicSubsequence('adc'))  # 0
+print(sol.countPalindromicSubsequence('bbcbaba'))  # 4
